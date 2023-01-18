@@ -1,5 +1,11 @@
 # Basic JavaScript ES6 for React Challenges
 
+## Cloning in Github Desktop
+
+In Github Desktop, select _File > Clone Respository_ from the menu.
+
+In the dialogue box that appears, clone the project somewhere on your machine _*outside of OneDrive, or any other folder that will automatically sync to the cloud*_. It's best to find your user folder, and create a subdirectory there called 'development' that you can house everything in.
+
 ## Getting started
 
 Each file in this project contains a challenge for you to solve with JavaScript ES6. The challenges are geared towards ES6 syntax that you will use regularly in React.
